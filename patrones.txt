@@ -1,0 +1,12 @@
+Tipos de patrones:
+ >Creacionales
+    >Singleton (Ejemplo1.txt)
+        Permite que el mismo objeto ya instanciado usarlo para los demas usar,
+        Permite tener una sola instancia de la clase para n usuario.
+        Desventaja que se debe crear en algunas puntos de la aplicacion 
+        Ejemplo para metodo conectar y desconectar de BD.
+    >Fabrica o factoria
+
+ >Estructurales
+ >Comportamiento
+
